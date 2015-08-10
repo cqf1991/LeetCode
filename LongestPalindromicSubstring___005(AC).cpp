@@ -46,6 +46,7 @@ public:
 	
 };
 
+/*
 int main()
 {
 	string a = "abb";
@@ -53,3 +54,4 @@ int main()
 	so.longestPalindrome(a);
 	return 0;
 }
+*/
